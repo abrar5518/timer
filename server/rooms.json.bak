@@ -1,0 +1,92 @@
+{
+  "EUFZ6": {
+    "code": "EUFZ6",
+    "hostKey": "YZZKXHHQ",
+    "agenda": [
+      {
+        "id": 0,
+        "title": "htee",
+        "durationSecs": 300,
+        "remainingSecs": 300,
+        "status": "active"
+      },
+      {
+        "id": 1,
+        "title": "hhh",
+        "durationSecs": 600,
+        "remainingSecs": 600,
+        "status": "pending"
+      }
+    ],
+    "currentIndex": 0,
+    "running": true,
+    "faqDoc": "",
+    "branding": {
+      "logoUrl": "",
+      "primaryColor": "#8a1538"
+    },
+    "questions": [],
+    "polls": [],
+    "participantCount": 0,
+    "ownerId": "usr_x3tczl2",
+    "createdAt": "2026-03-18T20:00:02.943Z"
+  },
+  "RO5LA": {
+    "code": "RO5LA",
+    "hostKey": "APU6IJ8V",
+    "agenda": [
+      {
+        "id": 0,
+        "title": "Welcome & Speaker Intro",
+        "durationSecs": 300,
+        "remainingSecs": 214,
+        "status": "active"
+      },
+      {
+        "id": 1,
+        "title": "Market Trends 2024",
+        "durationSecs": 900,
+        "remainingSecs": 900,
+        "status": "pending"
+      },
+      {
+        "id": 2,
+        "title": "Case Study Deep Dive",
+        "durationSecs": 1200,
+        "remainingSecs": 1200,
+        "status": "pending"
+      }
+    ],
+    "currentIndex": 0,
+    "running": true,
+    "startedAt": 1773867268271,
+    "lastRemaining": 300,
+    "faqDoc": "Q: Will there be a recording?\nA: Yes, it will be emailed to all registrants.\nQ: Can I share the slides?\nA: Yes, the PDF link will be provided at the end.",
+    "branding": {
+      "logoUrl": "",
+      "primaryColor": "#8a1538"
+    },
+    "questions": [],
+    "polls": [],
+    "participantCount": 1,
+    "ownerId": "usr_358lrf8",
+    "createdAt": "2026-03-18T20:54:15.770Z",
+    "activePoll": {
+      "id": "1773867355849",
+      "question": "heehk",
+      "options": [
+        {
+          "text": "hi",
+          "votes": 0
+        },
+        {
+          "text": "hi3",
+          "votes": 0
+        }
+      ],
+      "totalVotes": 0,
+      "active": true,
+      "expiresAt": 1773867385849
+    }
+  }
+}
